@@ -38,4 +38,11 @@ body {
 #contact-us {
     margin-right: 2.5rem;
 }
-
+/* MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN MAIN */
+.main {
+    background-image: url(./resources/pexels-mike-gonzález-2167890.jpg);
+    height: 50rem;
+    width: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
