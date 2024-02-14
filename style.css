@@ -1,0 +1,41 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+/* HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding: 0.1rem;
+    padding-bottom: 0;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: blueviolet;
+    font-family: 'protest riot';
+    border: 2px solid transparent;
+    padding: 0.2rem;
+}
+
+.navbar a:hover {
+    border: 2px solid blueviolet;
+    color: whitesmoke;
+    background-color: blueviolet;
+}
+
+#logo-png:hover {
+    background-color:whitesmoke;
+    border: 2px solid transparent;
+}
+
+#logo-png {
+    margin-left: 2.5rem;
+}
+
+#contact-us {
+    margin-right: 2.5rem;
+}
+
