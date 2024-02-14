@@ -2,6 +2,11 @@ body {
     background-color: whitesmoke;
 }
 
+.turret-road-regular {
+    font-family: "Turret Road", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
 
 /* HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER HEADER */
 .navbar {
@@ -45,4 +50,33 @@ body {
     width: auto;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
+
+.main {
+    color: white;
+    text-align: center;
+}
+
+.main h2 , p {
+    color: white;
+    margin-top: 0;
+    background-color: black;
+    position: relative;
+    top: 10rem;
+}
+
+.main h2 {
+    font-family: 'Turret Road';
+    padding: 1.5rem;
+    font-size: 2.3rem;
+}
+
+.main p {
+    padding: 1.1rem;
+    margin-left: 1.6rem;
+    margin-right: 1.6rem;
+}
+
+
+  
