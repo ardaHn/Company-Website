@@ -79,5 +79,35 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.our-staff h2 {
+    text-align: center;
+    font-family: 'protest riot';
+    margin-top: 7rem;
+    font-size: 3.6rem;
+}
+
+.staff-card img {
+    width: auto;
+    height: 20rem;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+
+.staff-card-container {
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+/* FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER FOOTER */
+footer {
+    text-align: center;
+}
+
+.footer  {
+    color: blueviolet;
+    border-top: 1px solid;
+    margin: 3rem;
+}
+
 
   
